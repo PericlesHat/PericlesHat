@@ -4,8 +4,7 @@ I am currently a master's student in Computer Science at Emory University. Befor
 
 - 🔭 I’m currently working on
   -  3D Scene Understanding
-  -  Bayesian Methods in Engineering
+  -  Visual Question Answering
 - 🌱 I’m currently learning
-  -  Scene Graph Generation
-  -  Multi-modal Learning
+  -  Multimodal Graph Learning
 - 📫 How to reach me: ziyang.zhang2@emory.edu

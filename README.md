@@ -7,5 +7,5 @@ I am currently a master's student in Computer Science at Emory University. Befor
   -  Graph Neural Network
 - 🌱 I’m currently learning
   -  Multimodal Graph Learning
-  -  LLM for Health
+  -  LLM on any domains
 - 📫 How to reach me: ziyang.zhang2@emory.edu

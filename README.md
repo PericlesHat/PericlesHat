@@ -1,11 +1,9 @@
 ### Hi there
 
-I am currently a master's student in Computer Science at Emory University. Before that I recieved my bachelor's degree from Shenzhen University. My research interests are in machine learning, specifically in the fields of multimodal graph learning.
+I am currently a PhD student in Computer Science and Informatics at Emory University. Check out [my personal website](https://ziyang-emory.vercel.app/) for more.
 
 - 🔭 I’m currently working on
-  -  Trustable and Interpretable Models for Healthcare
-  -  Graph Neural Network
-- 🌱 I’m currently learning
-  -  Multimodal Graph Learning
-  -  LLM on any domains
+  -  Interpretable AI for Healthcare
+  -  Graph Neural Networks
+  -  Multimodal Learning
 - 📫 How to reach me: ziyang.zhang2@emory.edu

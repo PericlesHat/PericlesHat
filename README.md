@@ -7,4 +7,4 @@ I am currently a PhD student in Computer Science and Informatics at Emory Univer
   -  Graph Modeling
   -  T2DM Subtyping
   -  LLM Agents
-- 📫 How to reach me: ziyang.zhang2@emory.edu
+- 📫 How to reach me: ziyang.zhang2@emory.edu, ziyangzhang@google.com
